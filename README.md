@@ -5,4 +5,4 @@
 > I'm programmer of Exercito Brasileiro and i make codes for projects that peoples don't know.
 > Currently a contributor to Krews, TelosCompany and Exercito Brasileiro.
 
-🔗 https://teloschet.com
+🔗 https://teloscompany.com
