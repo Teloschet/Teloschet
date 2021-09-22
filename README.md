@@ -2,11 +2,9 @@
 
 #### Hello 👏
 
-<div class="sefodeu" style="text-align:justify;">
 > I'm programmer of Exercito Brasileiro and i make codes for projects that peoples don't know.
 > Currently a contributor to Exercito Brasileiro.<br>
 > CTO at Libbou.
-</div>
 
 🔗 teloschet.com
 🔗 libbou.com.br
