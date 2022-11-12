@@ -2,7 +2,7 @@
 
 #### Hello 👏
 
-> I'm programmer of Exercito Brasileiro and i make codes for projects that peoples don't know.
-> Currently a contributor to Exercito Brasileiro.<br>
+> Currently Tech Lead at SPA! 
+> I was programmer of Exercito Brasileiro and i maked codes for projects that peoples don't know.<br>
 
 🔗 teloschet.com
