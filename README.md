@@ -5,4 +5,4 @@
 > Currently Tech Lead at SPA! 
 > I was programmer of Exercito Brasileiro and i maked codes for projects that peoples don't know.<br>
 
-🔗 teloschet.com
+🔗 
